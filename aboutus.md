@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Us
+title: About the lab
 subtitle: Who we are
 ---
 
