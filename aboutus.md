@@ -15,9 +15,3 @@ I am currently a junior at Brown University concentrating in Biochemistry and Mo
 
 Renee Soto
 Renee Seto, Undergraduate Student.  I am currently a Senior at Brown University, concentrating in Biochemistry and Molecular Biology.  My previous undergraduate research involved uncovering the effects of calcineurin signaling on development in zebrafish.  My current research interests lie in the systems of molecular genetics, particularly in regulation of transcription through development. 
-
-
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
